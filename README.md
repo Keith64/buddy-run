@@ -1,4 +1,4 @@
-# buddy-run, Inc
+# buddy-run, Inc.
 
 ## Purpose
 A website that offers fitness training services.
